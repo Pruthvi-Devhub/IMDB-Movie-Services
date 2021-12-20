@@ -43,7 +43,7 @@ https://localhost:44373/api/Movie/Addmovie
 
 https://localhost:44373/api/Movie/Addreviewformovie/3
 
-![image](https://user-images.githubusercontent.com/88755412/146788208-032beaf3-b828-42b3-8008-a1c8b33a4bc1.png)
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/88755412/146805917-fb7aa728-0f52-4f4a-98a0-eaf2cab9945e.png">
 
 https://localhost:44373/api/Movie/GetallFavouritegenremoviesbyuserid/1
 
